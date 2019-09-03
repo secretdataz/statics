@@ -1,0 +1,36 @@
+{
+  "donations": [
+    {
+      "by": "Secret",
+      "amount": 150,
+      "at": "2019-08-07"
+    },
+    {
+      "by": "Poiii",
+      "amount": 300,
+      "at": "2019-08-31"
+    }
+  ],
+  "expenses": [
+    {
+      "expectedDate": "2019-08-07",
+      "amount": 150
+    },
+    {
+        "expectedDate": "2019-09-07",
+        "amount": 150
+    },
+    {
+        "expectedDate": "2019-10-07",
+        "amount": 150
+    },
+    {
+        "expectedDate": "2019-11-07",
+        "amount": 150
+    },
+    {
+        "expectedDate": "2019-12-07",
+        "amount": 150
+    }
+  ]
+}
